@@ -1,1 +1,0 @@
-This file was create by node.js. This string is appended to the end of string.
